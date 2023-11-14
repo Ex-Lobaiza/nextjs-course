@@ -639,9 +639,10 @@ El Pre-renderizado parcial está construido sobre las [APIs concurrentes de Reac
 
 ## Caching
 
-Cuando trabajamos con aplicaciones React en Vite, Create React App o similares, generalmente lidiamos con un solo caché, el caché del navegador. En Next.js, tenemos muchos tipos de caché diferentes:
+Cuando trabajamos con aplicaciones React en Vite, Create React App o similares, generalmente lidiamos con un solo caché, el caché del navegador. 
 
-Aquí tienes la traducción al español de la tabla MDX:
+En Next.js, tenemos muchos tipos de caché diferentes:
+
 
 | Mecanismo                    | Qué                             | Dónde    | Propósito                                                  | Duración                                    |
 | ---------------------------- | ------------------------------- | -------- | ---------------------------------------------------------- | ------------------------------------------- |
